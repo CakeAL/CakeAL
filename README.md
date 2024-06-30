@@ -31,4 +31,4 @@ I'm CakeAL, you can communicate me in Chinese or English.
 
 
 ### Ads
-- If you are a student in USTB like me, why not try this: [USTB Wifi Tools](https://github.com/anuraghazra/github-readme-stats)
+- If you are a student in USTB like me, why not try this: [USTB Wifi Tools](https://github.com/CakeAL/ustb-wifi-tools)
